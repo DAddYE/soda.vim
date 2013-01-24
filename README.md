@@ -3,7 +3,7 @@
 Converted from Textmate theme Espresso Soda using Coloration but __reinterpreted__ for a better
 vim experience.
 
-# Screen
+# Screenshot [hi-res]
 
 ![In Terminal](http://d.pr/i/QUno+)
 
