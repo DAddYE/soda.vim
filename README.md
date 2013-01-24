@@ -7,6 +7,11 @@ vim experience.
 
 ![In Terminal](http://d.pr/i/QUno+)
 
+# My config?
+
+* [dotfiles](https://github.com/DAddYE/dotfiles)
+* [only vim](https://github.com/DAddYE/.vim)
+
 # About me
 
 If interested you can follow me on:
