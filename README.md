@@ -1,4 +1,16 @@
-soda.vim
-========
+# Soda for Vim
 
-Reinterpreted Soda Theme for Vim Users
+Converted from Textmate theme Espresso Soda using Coloration but __reinterpreted__ for a better
+vim experience.
+
+# Screen
+
+![In Terminal](http://d.pr/i/QUno+)
+
+# About me
+
+If interested you can follow me on:
+
+* [Github](https://github.com/DAddYE)
+* [Twitter](http://twitter.com/DAddYE)
+* [DAddYE.it](http://daddye.it)
