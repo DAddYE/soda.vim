@@ -5,7 +5,7 @@ vim experience.
 
 # Screenshot
 
-![In Terminal](http://fs.daddye.it/6z8o+)
+![In Terminal](http://fs.daddye.it/4Y1A+)
 
 # My config?
 
