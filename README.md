@@ -3,9 +3,9 @@
 Converted from Textmate theme Espresso Soda using Coloration but __reinterpreted__ for a better
 vim experience.
 
-# Screenshot [hi-res]
+# Screenshot
 
-![In Terminal](http://d.pr/i/QUno+)
+![In Terminal](http://fs.daddye.it/6z8o+)
 
 # My config?
 
