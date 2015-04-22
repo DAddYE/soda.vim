@@ -14,10 +14,11 @@ let g:colors_name = "soda"
 
 hi Cursor ctermfg=NONE ctermbg=59 cterm=NONE guifg=NONE guibg=#615649 gui=NONE
 hi Visual ctermfg=NONE ctermbg=153 cterm=NONE guifg=NONE guibg=#c2e8ff gui=NONE
+hi SignColumn guibg=NONE ctermbg=NONE
 hi CursorLine ctermfg=NONE ctermbg=254 cterm=NONE guifg=NONE guibg=#e6e6e6 gui=NONE
 hi CursorColumn ctermfg=NONE ctermbg=254 cterm=NONE guifg=NONE guibg=#e6e6e6 gui=NONE
 hi ColorColumn ctermfg=NONE ctermbg=254 cterm=NONE guifg=NONE guibg=#e6e6e6 gui=NONE
-hi LineNr ctermfg=250 ctermbg=254 cterm=NONE guifg=#aaaaaa guibg=#eeeeee gui=NONE
+hi LineNr ctermfg=250 ctermbg=NONE cterm=NONE guifg=#aaaaaa guibg=NONE gui=NONE
 hi VertSplit ctermfg=255 ctermbg=254 cterm=NONE guifg=#cecece guibg=#cecece gui=NONE
 hi MatchParen ctermfg=161 ctermbg=NONE cterm=bold guifg=#61862f guibg=NONE gui=bold
 hi StatusLine ctermfg=0 ctermbg=249 cterm=bold guifg=#000000 guibg=#b5b5b5 gui=bold
